@@ -1,4 +1,4 @@
-### Hi there 👋, I am Mohseen.
+### Hi there 👋, I'm Mohseen.
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning React.JS
