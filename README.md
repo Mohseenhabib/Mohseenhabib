@@ -13,14 +13,13 @@
 - ⚡ Fun fact:Umm, 70% Of The Coding Jobs Has Nothing To Do With Technology At All.
 ---
 ### Spotify 🎧
-[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Vignesh Spotify Playing" width="400" />](https://open.spotify.com/user/31vsyir3kkvilfj5not7atr2b4ai)
+[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Vignesh Spotify Playing" width="400" />](https://open.spotify.com/playlist/5S1WtKywQFzcdZ0Bgp92YY?si=4eff601278ff486f)
 
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/vicky877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vicky877" height="30" width="40" /></a>
 <a href="https://twitter.com/MohseenHabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vignesh63804723" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/mohseen-habib-haroon-4b304a1b2/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-vignesh23" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/mohseen-habib-haroon-4b304a1b2]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-vignesh23" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr.mister__/"><img align="left" alt="birjuvachhani | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" /></a>
 </p>
 
