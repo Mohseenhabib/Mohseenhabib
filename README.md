@@ -13,7 +13,7 @@
 - ⚡ Fun fact:Umm, 70% Of The Coding Jobs Has Nothing To Do With Technology At All.
 ---
 ### Spotify 🎧
-[<img src="https://spotify-github-profile.vercel.app/api/view?uid=raonerama&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" width="400" />](https://open.spotify.com/playlist/5S1WtKywQFzcdZ0Bgp92YY?si=4eff601278ff486f)
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=raonerama&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" width="400" />](https://open.spotify.com/playlist/5S1WtKywQFzcdZ0Bgp92YY?si=4eff601278ff486f)
 
 ---
 <h3 align="left">Connect with me:</h3>
