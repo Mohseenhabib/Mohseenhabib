@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohseen</h1>
 <h3 align="center">A programmer who keeps you alive</h3>
 <p align="left"> <a href="https://twitter.com/MohseenHabib" target="blank">
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" alt="vignesh63804723"  hight="450" width="500" /></a> </p>
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" alt="vignesh63804723"  height="300" width="500" /></a> </p>
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning React.JS
@@ -18,8 +18,8 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/MohseenHabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vignesh63804723" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/mohseen-habib-haroon-4b304a1b2]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-vignesh23" height="30" width="40" /></a>
+<a href="https://twitter.com/MohseenHabib" target="blank"><img align="left" src="https://www.pngfind.com/pngs/m/60-606593_icons-clipart-twitter-twitter-logo-png-transparent-png.png" alt="vignesh63804723" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/mohseen-habib-haroon-4b304a1b2]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-vignesh23" height= "30" width="40" /></a>
 <a href="https://www.instagram.com/mr.mister__/"><img align="left" alt="birjuvachhani | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" /></a>
 </p>
 
