@@ -17,11 +17,7 @@
 
 ---
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/MohseenHabib" target="blank"><img align="left" src="https://www.pngfind.com/pngs/m/60-606593_icons-clipart-twitter-twitter-logo-png-transparent-png.png" alt="vignesh63804723" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/mohseen-habib-haroon-4b304a1b2]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-vignesh23" height= "30" width="40" /></a>
-<a href="https://www.instagram.com/mr.mister__/"><img align="left" alt="birjuvachhani | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" /></a>
-</p>
+<p align="left"> <a href="https://discord.com/users/RaOne#6828" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mohseenhabib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mr.mister__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohseen-habib-haroon-4b304a1b2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MohseenHabib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
